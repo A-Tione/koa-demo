@@ -1,0 +1,12 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/A-Tione/koa-demo.git",
+  "author": "A-Tione <heyanggo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/koa": "^2.11.6",
+    "koa": "^2.13.0"
+  }
+}
